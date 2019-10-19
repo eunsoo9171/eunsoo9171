@@ -1,0 +1,6 @@
+<<<  (Computer) programming languge (Grammar)  >>>
+
+1. Data
+숫자 number
+문자열 string
+블리언 boolean
