@@ -1,0 +1,10 @@
+파이썬 다운로드 https://www.python.org/downloads/windows/
+코드를 실행시키는 용도
+설치 확인 : 명령프롬프트 (윈도우 키 + 스페이스바 -> cmd 입력)에서 python --version 입력
+
+아톰 다운로드 https://atom.io
+코드에 샐깔을 입혀서쉽고 빠르게 잃고 쓰는 용도
+= 코드 에디터
+
+기트허브데스크탑 다운로드 https://desktop.github.com/
+작성한코드를 인터넷에 올리는 용도
