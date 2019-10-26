@@ -1,4 +1,4 @@
-파이썬 다운로드 https://www.python.org/downloads/windows/
+파이썬 (인터프리터) 다운로드 https://www.python.org/downloads/windows/
 코드를 실행시키는 용도
 설치 확인 : 명령프롬프트 (윈도우 키 + 스페이스바 -> cmd 입력)에서 python --version 입력
 

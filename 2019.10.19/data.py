@@ -5,7 +5,10 @@ print(-9)
 print ("나는 '플레' 이다")
 print ('나는 "플레" 이다')
 
-
+print("True")
+# print(hi)
+print(True)
+print(False)
 
 
 # n = 0

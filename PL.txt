@@ -1,6 +1,53 @@
 <<<  (Computer) programming languge (Grammar)  >>>
 
-1. Data
-숫자 number
-문자열 string
-블리언 boolean
+Instructor : 최희찬 (heech choi)
+email : heech912@gmail.com
+pn : 010 - 5517 - 3519
+
+
+우리가 공부하는것: 코딩(프로그래밍)
+프로그래밍:프로그램을 만드는것
+코딩:코드를 써서 코드로 이루어진 프로그램을 만드는것
+
+
+(컴퓨터)프로그램:컴퓨터에 코드를 입력해서 명령하는것(소프트웨어)
+(컴퓨터)하드웨어:CPU,메모리,IO(입출력장치)
+*소프트웨어는 메모리에 (전기신호로)저장되고 CPU가 실행한다
+*우리는 편리하기위해 컴퓨터프로그램을 만든다
+
+프로그램을 만들기위해 공부해야 할것: 프로그래밍 언어
+
+0. 세팅(Setup)
+
+파이썬 (인터프리터) 다운로드 https://www.python.org/downloads/windows/
+코드를 실행시키는 용도
+설치 확인 : 명령프롬프트 (윈도우 키 + 스페이스바 -> cmd 입력)에서 python --version 입력
+
+아톰 다운로드 https://atom.io
+코드에 샐깔을 입혀서 쉽고 빠르게 잃고 쓰는 용도
+= 코드 에디터
+
+기트허브데스크탑 다운로드 https://desktop.github.com/
+작성한코드를 인터넷에 올리는 용도
+https://github.com/eunsoo9171/eunsoo9171 여기서 확인
+
+
+1. Data(데이터) & Operation(연산/계산)
+
+Kind of Data (데이터의 종류)
+-숫자 number
+-문자열 string - (double/ single) quotation mark (큰/작은) 따옴표
+-불리언 boolean
+
+Kind of Operator (연산자(연산기호)의 종류)
+-arithmetic(산술) : +(더하기) , -(빼기) , *(곱하기) , /(나누기) , //(몫) , %(나머지), **(거듭제곱)
+-comparison(비교) : > , < , >= , <=, ==(같다), !=(같지않다)
+-logical(논리) : and(그리고), or(또는/혹은/이거나), not(아닌)
+*비교연산의 결과 데이터는 불리언이다. (참 혹은 거짓이다)
+
+comment(주석): ctrl + /
+
+
+2. variable 변수
+list 배열(리스트)
+dictionary 딕셔너리
